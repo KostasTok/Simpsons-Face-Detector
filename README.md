@@ -1,6 +1,6 @@
 # Simpsons-Face-Detector
 
-A simple face detector for the Simpsons Characters. Used on seasons 27 and 28 it created a database of 4885 images. 
+A simple face detector for the Simpsons Characters. Used on seasons 25-28 it created a database of 9,878 images. 
 
 Each image:
 <ul>
